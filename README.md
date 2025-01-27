@@ -45,7 +45,7 @@ O projeto é uma aplicação web que exibe uma galeria interativa de cartas fict
 
 ## 🖼️ Prévia do Projeto
 
-![Prévia do Clone Yu-Gi-Oh!](src/imagens/fundo-site.jpg)
+![Prévia do Clone Yu-Gi-Oh!](src\imagens\exemplo.projeto.png)
 
 ## 🚀 Como Rodar o Projeto
 
